@@ -1,8 +1,7 @@
-Copyright 2024 Daniel Nicholson
+Copyright 2024 Daniel Nicholson\n
 If using my code, please credit me
 
-This project is documented on my website:
+This project is documented on my website:\n
 *INCLUDE LATER*
 
-Here is the wikipedia article if you wish to read more:
-https://en.wikipedia.org/wiki/Lyapunov_fractal
+[Read more](https://en.wikipedia.org/wiki/Lyapunov_fractal)
